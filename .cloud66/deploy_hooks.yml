@@ -1,5 +1,5 @@
 production:
     last_thing:
-      - source: /.cloud66/maintenance.html
+      - source: .cloud66/maintenance.html
         destination: /etc/cloud66/pages/cloud66_maintenance.html
         target: docker
